@@ -128,7 +128,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-Tu Nombre - [@tuusuario](https://github.com/tuusuario)
+Benjamin Oscco Arias
 
 ## 🙏 Agradecimientos
 
