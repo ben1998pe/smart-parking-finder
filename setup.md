@@ -12,10 +12,10 @@ Antes de comenzar, asegúrate de tener instalado:
 
 ## 🛠️ Instalación Paso a Paso
 
-### 1. Clonar el Repositorio
+### 1. Clonar el Repositorio 
 
 ```bash
-git clone <tu-repositorio>
+git clone <tu-repositorio> 
 cd smart-parking-finder
 ```
 
