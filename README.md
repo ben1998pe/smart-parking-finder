@@ -1,6 +1,6 @@
 # 🚗 Smart Parking Finder
 
-Una aplicación móvil inteligente para encontrar estacionamientos disponibles en tiempo real.
+Una aplicación móvil e inteligente para encontrar estacionamientos disponibles en tiempo real.
 
 ## ✨ Características
 
